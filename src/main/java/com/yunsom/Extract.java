@@ -10,20 +10,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;  
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;  
 import org.apache.hadoop.util.GenericOptionsParser;  
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
 
